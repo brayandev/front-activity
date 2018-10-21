@@ -1,0 +1,26 @@
+.txtRegister{
+    background-color: #696969;
+    border: 0.2px solid #696969;
+    height: 35px;
+    margin: 10px 0px 0px 40px;
+    width: 80%;
+    color: #fff;
+    padding:10px;
+    border-radius: 4px;
+}
+
+::-webkit-input-placeholder {
+    color: #fff;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    color: #fff;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    color: #fff;  
+ }
+ 
+ :-ms-input-placeholder {  
+    color: #fff;  
+ }
